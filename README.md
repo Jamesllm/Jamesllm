@@ -17,15 +17,27 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jamesllm&show_icons=true&locale=en&layout=compact" alt="jamesllm" /></p>
 
-<style>
-    .flex{
-        display: flex;
-        background: red;
-        padding: 10px;
-        border-radius: 8px;
-    }
-</style>
-
-<div class="flex">
-    hello
+<!-- Primer card con fondo y border radius -->
+<div align="center" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin-bottom: 10px;">
+  <a href="URL_del_Enlace1">
+    <img src="URL_de_la_Imagen1" alt="Texto Alternativo1" width="200" style="border-radius: 8px;" />
+  </a>
+  <p>Descripción del card 1</p>
 </div>
+
+<!-- Segundo card con fondo y border radius -->
+<div align="center" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin-bottom: 10px;">
+  <a href="URL_del_Enlace2">
+    <img src="URL_de_la_Imagen2" alt="Texto Alternativo2" width="200" style="border-radius: 8px;" />
+  </a>
+  <p>Descripción del card 2</p>
+</div>
+
+<!-- Tercer card con fondo y border radius -->
+<div align="center" style="background-color: #f0f0f0; border-radius: 10px; padding: 10px; margin-bottom: 10px;">
+  <a href="URL_del_Enlace3">
+    <img src="URL_de_la_Imagen3" alt="Texto Alternativo3" width="200" style="border-radius: 8px;" />
+  </a>
+  <p>Descripción del card 3</p>
+</div>
+
