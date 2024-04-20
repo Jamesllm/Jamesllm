@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://github.com/Jamesllm">Ronal Llapapasca</a> 👋</h1>
 </div>
 
-Estudiante del tercer ciclo de la carrera de Ingeniería de Sistemas e Informática, con más de 5 meses de experiencia en el desarrollo y mejora de aplicaciones web. Mi enfoque principal se centra en el desarrollo de sitios web, donde puedo combinar mi pasión por la tecnología con mi habilidad para crear soluciones innovadoras y funcionales.
+Estudiante del cuarto ciclo de la carrera de Ingeniería de Sistemas e Informática, con más de 5 meses de experiencia en el desarrollo y mejora de aplicaciones web. Mi enfoque principal se centra en el desarrollo de sitios web, donde puedo combinar mi pasión por la tecnología con mi habilidad para crear soluciones innovadoras y funcionales.
 
 <img src="https://i.postimg.cc/Cxxt88yV/Ronal-Llapapasca.jpg">
 
