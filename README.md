@@ -36,6 +36,16 @@ Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, q
 <h3 align="center"></h3>
 <div align="center">                                       
 
+[![Cover.jpg](https://i.postimg.cc/kXHtDPhx/Cover.jpg)](https://postimg.cc/4mz3FqGd)
+
+<p align="left">
+𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝗙𝗹𝗼𝘄 es una aplicación desarrollada en Java Swing que permite a los usuarios interactuar con contenidos dinámicos de manera eficiente. Este proyecto está diseñado para gestionar contenidos multimedia (libros, música, películas), con características como agregar favoritos, administrar usuarios y categorías, y generar reportes en forma de grafico de barras.
+
+  𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
+• Java Swing para la interfaz gráfica.
+• SQL Server para la gestión principal de la base de datos.
+</p>
+
 </div>                                                             
 </table>                                                                                 
 </div>
