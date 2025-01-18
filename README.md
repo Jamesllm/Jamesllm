@@ -1,4 +1,4 @@
-<div align="center">
+**<div align="center">
 <h1 align="center">Hola, soy <a href="https://github.com/Jamesllm">Ronal Llapapasca</a> 👋</h1>
 </div>
 
@@ -59,3 +59,4 @@ Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, q
                                                                             
                                                                                
 </div>
+**
