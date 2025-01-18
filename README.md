@@ -18,7 +18,7 @@
 
 ###
 
-<img height="200" src="./output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jamesllm/Jamesllm/output/snake.svg" alt="Snake animation" />
 
 ###
 
