@@ -6,6 +6,13 @@
 
 <p align="left">Estudiante de la carrera de Ingeniería de Sistemas e Informática, con más de 5 meses de experiencia en el desarrollo y mejora de aplicaciones web. Mi enfoque principal se centra en el desarrollo de sitios web, donde puedo combinar mi pasión por la tecnología con mi habilidad para crear soluciones innovadoras y funcionales.</p>
 
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ronal-llapapasca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -19,15 +26,6 @@
 
   <img height="200" src="https://lh3.googleusercontent.com/a/ACg8ocLYnnWJW-d71S2muhW_1Cs3jS2kQ-haCs5ktB8EyHYO6jaYe3f2=s288-c-no" alt="Profile Image" />
 
-</div>
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/ronal-llapapasca/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
 </div>
 
 ###
@@ -84,10 +82,10 @@
 
 ###
 
-<p align="left">Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.</p>
+<div style="display: flex; justify-content: space-between; align-items: center; gap:30px">
+<img  height="300" src="https://camo.githubusercontent.com/746eee3166fef1f6e544b69642cd9267d5539cf22c026d514964594e4612d044/68747470733a2f2f692e706f7374696d672e63632f375a467378334a482f36353473686f74732d736f2e6a7067"  />
+<p >Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.</p>
 
-###
-
-<img align="left" height="300" src="https://camo.githubusercontent.com/746eee3166fef1f6e544b69642cd9267d5539cf22c026d514964594e4612d044/68747470733a2f2f692e706f7374696d672e63632f375a467378334a482f36353473686f74732d736f2e6a7067"  />
+</div>
 
 ###
