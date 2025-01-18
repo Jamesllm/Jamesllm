@@ -93,6 +93,14 @@
 <p align="left">
 Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.
 </p>
+
+<p>
+  𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
+</p>
+
+<ul>
+  <li>HTML5 para la interfaz gráfica.</li>
+</ul>
 </div>
                                                                     
 </td>
