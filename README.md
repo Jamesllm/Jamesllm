@@ -13,14 +13,14 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamesllm&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
-  </div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamesllm&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph" />
 
-  <img height="200" src="https://lh3.googleusercontent.com/a/ACg8ocLYnnWJW-d71S2muhW_1Cs3jS2kQ-haCs5ktB8EyHYO6jaYe3f2=s288-c-no"  />
+  <img height="200" src="https://lh3.googleusercontent.com/a/ACg8ocLYnnWJW-d71S2muhW_1Cs3jS2kQ-haCs5ktB8EyHYO6jaYe3f2=s288-c-no" alt="Profile Image" />
+
 </div>
+
 
 ###
 
