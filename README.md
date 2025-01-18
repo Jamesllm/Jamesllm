@@ -1,62 +1,91 @@
-**<div align="center">
-<h1 align="center">Hola, soy <a href="https://github.com/Jamesllm">Ronal Llapapasca</a> 👋</h1>
+<h1 align="center">Hola, soy Ronal Llapapasca 👋</h1>
+
+###
+
+<br clear="both">
+
+<p align="left">Estudiante de la carrera de Ingeniería de Sistemas e Informática, con más de 5 meses de experiencia en el desarrollo y mejora de aplicaciones web. Mi enfoque principal se centra en el desarrollo de sitios web, donde puedo combinar mi pasión por la tecnología con mi habilidad para crear soluciones innovadoras y funcionales.</p>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jamesllm&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="200" alt="languages graph"  />
 </div>
 
-Estudiante de la carrera de Ingeniería de Sistemas e Informática, con más de 5 meses de experiencia en el desarrollo y mejora de aplicaciones web. Mi enfoque principal se centra en el desarrollo de sitios web, donde puedo combinar mi pasión por la tecnología con mi habilidad para crear soluciones innovadoras y funcionales.
+###
 
-<img src="https://i.postimg.cc/Cxxt88yV/Ronal-Llapapasca.jpg">
+<img align="right" height="200" src="https://lh3.googleusercontent.com/a/ACg8ocLYnnWJW-d71S2muhW_1Cs3jS2kQ-haCs5ktB8EyHYO6jaYe3f2=s288-c-no"  />
 
-## Sobre mi
+###
 
-- ⭐ Github Star ⭐ 
-- 💻 Web developer
-<br>
+<img src="https://raw.githubusercontent.com/Jamesllm/Jamesllm/output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">Lenguages y herramientas:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+###
 
-## Proyectos UI
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto Barber Can</h3>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ronal-llapapasca/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">Lenguages:</h3>
+
+###
+
+<br clear="both">
+
 <div align="center">
-
-[![654shots-so.jpg](https://i.postimg.cc/7ZFsx3JH/654shots-so.jpg)](https://postimg.cc/5XmqgFmT)
-
-<p align="left">
-Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.
-</p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
 </div>
-                                                                    
-</td>
 
-<td width="50%">
-<br>
-<h3 align="center">ContentFlow App</h3>
-<div align="center">                                       
+###
 
-[![Cover.jpg](https://i.postimg.cc/kXHtDPhx/Cover.jpg)](https://postimg.cc/4mz3FqGd)
+<br clear="both">
 
-<p align="left">
-𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝗙𝗹𝗼𝘄 es una aplicación desarrollada en Java Swing que permite a los usuarios interactuar con contenidos dinámicos de manera eficiente. Este proyecto está diseñado para gestionar contenidos multimedia (libros, música, películas), con características como agregar favoritos, administrar usuarios y categorías, y generar reportes en forma de grafico de barras.
-</p>
+<h3 align="left">Herramientas:</h3>
 
-<p>
-  𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
-</p>
+###
 
-<ul>
-  <li>Java Swing para la interfaz gráfica.</li>
-  <li>SQL Server para la gestión principal de la base de datos.</li>
-</ul>
+<br clear="both">
 
-</div>                                                             
-</table>                                                                                 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-<br>
 
-                                                                            
-                                                                               
-</div>
-**
+###
+
+<br clear="both">
+
+<h3 align="left">Proyectos:</h3>
+
+###
+
+<p align="left">Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.</p>
+
+###
+
+<img align="left" height="300" src="https://camo.githubusercontent.com/746eee3166fef1f6e544b69642cd9267d5539cf22c026d514964594e4612d044/68747470733a2f2f692e706f7374696d672e63632f375a467378334a482f36353473686f74732d736f2e6a7067"  />
+
+###
