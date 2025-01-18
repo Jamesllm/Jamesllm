@@ -82,10 +82,42 @@
 
 ###
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap:30px">
-<img  height="300" src="https://camo.githubusercontent.com/746eee3166fef1f6e544b69642cd9267d5539cf22c026d514964594e4612d044/68747470733a2f2f692e706f7374696d672e63632f375a467378334a482f36353473686f74732d736f2e6a7067"  />
-<p >Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.</p>
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Proyecto Barber Can</h3>
+<div align="center">
 
+[![654shots-so.jpg](https://i.postimg.cc/7ZFsx3JH/654shots-so.jpg)](https://postimg.cc/5XmqgFmT)
+
+<p align="left">
+Propuesta destinada a proporcionar a los usuarios una interfaz fácil de usar, que les permita crear sin esfuerzo la identificación de sus mascotas.
+</p>
 </div>
+                                                                    
+</td>
+
+<td width="50%">
+<br>
+<h3 align="center">ContentFlow App</h3>
+<div align="center">                                       
+
+[![Cover.jpg](https://i.postimg.cc/kXHtDPhx/Cover.jpg)](https://postimg.cc/4mz3FqGd)
+
+<p align="left">
+𝗖𝗼𝗻𝘁𝗲𝗻𝘁𝗙𝗹𝗼𝘄 es una aplicación desarrollada en Java Swing que permite a los usuarios interactuar con contenidos dinámicos de manera eficiente. Este proyecto está diseñado para gestionar contenidos multimedia (libros, música, películas), con características como agregar favoritos, administrar usuarios y categorías, y generar reportes en forma de grafico de barras.
+</p>
+
+<p>
+  𝗧𝗲𝗰𝗻𝗼𝗹𝗼𝗴í𝗮𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:
+</p>
+
+<ul>
+  <li>Java Swing para la interfaz gráfica.</li>
+  <li>SQL Server para la gestión principal de la base de datos.</li>
+</ul>
+
+</div>                                                             
+</table> 
 
 ###
