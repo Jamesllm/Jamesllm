@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">¡Hola! Soy Ronal Llapapasca, estudiante de quinto ciclo de Ingeniería de Sistemas e Informática en la UTP con más de un año de experiencia en desarrollo de software y tecnologías web. Mi enfoque se centra en el diseño e implementación de sistemas eficientes, priorizando la escalabilidad y la experiencia de usuario.</p>
+<p align="left">¡Hola! Soy Ronal Llapapasca, con más de un año de experiencia en desarrollo de software y tecnologías web. Mi enfoque se centra en el diseño e implementación de sistemas eficientes, priorizando la escalabilidad y la experiencia de usuario.</p>
 
 <p align="left">Como Junior Developer en Corporación Grupo Drago S.A.C., he participado activamente en el desarrollo de soluciones innovadoras, incluyendo la integración de chatbots con IA, optimización de sitios web y desarrollo de APIs robustas. Domino tecnologías como Nuxt3, Node.js, Express, Flask, MongoDB, PostgreSQL, Python y PHP, así como el uso de herramientas como n8n y modelos de IA como ChatGPT (GPT-4o mini, GPT-3.5 Turbo). Mi experiencia abarca desde el diseño y desarrollo hasta la implementación y optimización de funcionalidades clave en proyectos complejos.</p>
 
