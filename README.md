@@ -1,92 +1,88 @@
-<h1 align="center">Ronal Llapapasca Montes</h1>
+<div align="center">
 
-<p align="center">
-  <b>Ingeniero de Sistemas (UTP) | Software Engineer, Cloud & SysAdmin</b><br>
-  Especializado en arquitecturas de software Full-Stack, procesamiento de datos en tiempo real (IoT/Streaming), bases de datos de alto rendimiento e infraestructura en la nube.
-</p>
+<img src="./assets/drago-banner.png" alt="DRAGO — identidad corporativa" width="100%" />
 
-<p align="center">
-  <a href="https://pukio.lat"><b>pukio.lat</b></a> | 
-  <a href="https://opendata.pukio.lat"><b>opendata.pukio.lat</b></a> | 
-  <a href="https://linkedin.com/in/ronal-llapapasca"><b>LinkedIn</b></a> | 
-  <a href="mailto:ronallapapasca@gmail.com"><b>ronallapapasca@gmail.com</b></a>
-</p>
+# Ronal Llapapasca Montes
 
----
+**Software Engineer · Cloud Infrastructure · Systems Administration**
 
-### Sobre mí
+Ingeniería de software, plataformas de datos en tiempo real e infraestructura confiable.
 
-- **Fundador & Lead Engineer** en **Pukio Tech** (`pukio.lat`), donde desarrollamos software a la medida, plataformas web e infraestructura cloud sin intermediarios.
-- **Junior Developer & System Administrator** en **Corporación Grupo Drago**, gestionando plataformas industriales (INDUXA IoT), monitoreo con Grafana/Prometheus, seguridad IAM con Authentik y proyectos en la nube.
-- Co-poseedor de un **Guinness World Record** por participar en la lección de Inteligencia Artificial más grande del mundo.
-- Creador de la plataforma de datos abiertos **OpenData Perú** (`opendata.pukio.lat`).
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronal-llapapasca/)
+[![Email](https://img.shields.io/badge/Email-Contacto-0B1D3A?style=flat-square&logo=gmail&logoColor=white)](mailto:ronallapapasca@gmail.com)
 
----
+**Chiclayo, Perú**
 
-### Stack Tecnológico & Herramientas
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Nuxt_3-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt 3" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <br>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SingleStore-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white" alt="SingleStore" />
-  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Apache Kafka" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux_SysAdmin-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </div>
 
 ---
 
-### Experiencia Destacada & Proyectos
+### Perfil profesional
 
-<table>
-  <thead>
-    <tr>
-      <th>Proyecto / Empresa</th>
-      <th>Descripción & Logros</th>
-      <th>Stack / Enfoque</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>Pukio Tech</b><br><i>(Founder & Lead)</i></td>
-      <td>Estudio independiente de ingeniería de software. Desarrollo web de alto rendimiento, sistemas a la medida, administración de VPS/Linux y configuración DNS.</td>
-      <td>Next.js, TypeScript, PostgreSQL, Docker, Linux, Cloudflare</td>
-    </tr>
-    <tr>
-      <td><b>OpenData Perú</b><br><i>(pukio.lat)</i></td>
-      <td>Geoportal público e infraestructura de datos espaciales (EPSG:4326) con más de 4,800 recursos turísticos del MINCETUR y 32,100 empresas de SUNAT/Gob.pe.</td>
-      <td>Next.js, Vercel, Neon PostgreSQL, GeoJSON, Leaflet.js</td>
-    </tr>
-    <tr>
-      <td><b>Plataforma INDUXA (IoT)</b><br><i>(Drago Grupo)</i></td>
-      <td>Arquitectura de microservicios e ingesta en tiempo real (WebSockets / Kafka) para telemetría de maquinaria pesada (INDUXA Industrial) y flotas agrícolas (INDUXA Agro).</td>
-      <td>Nuxt 3, Node.js, Apache Kafka, Docker, PostgreSQL</td>
-    </tr>
-    <tr>
-      <td><b>Clúster Bancario GNB</b><br><i>(Drago Grupo)</i></td>
-      <td>Despliegue de clúster distribuido de bases de datos HTAP para analítica financiera y Scoring Crediticio de ultra baja latencia con encriptación bancaria.</td>
-      <td>SingleStore (HTAP), SQL, Security Standards</td>
-    </tr>
-    <tr>
-      <td><b>IoT Predictivo UNACEM</b><br><i>(Drago Grupo)</i></td>
-      <td>Arquitectura Serverless para la extracción automatizada de telemetría de planta y aplicación de modelos de Machine Learning en procesos de molienda.</td>
-      <td>AWS Lambda, Step Functions, Python, ML</td>
-    </tr>
-  </tbody>
-</table>
+Desarrollador de software y administrador de sistemas con experiencia en soluciones **full-stack**, procesamiento de información en tiempo real, bases de datos e infraestructura Linux y cloud. Me enfoco en construir plataformas mantenibles, observables y seguras, desde el diseño de la arquitectura hasta su despliegue y operación.
+
+Actualmente me desempeño como **Junior Developer & System Administrator en Corporación Grupo DRAGO**, participando en iniciativas de digitalización industrial, integración de datos, observabilidad y operación de plataformas tecnológicas.
+
+### Áreas de especialización
+
+| Área | Enfoque |
+| :--- | :--- |
+| **Software Engineering** | Aplicaciones web, APIs, microservicios e integración de sistemas |
+| **Data & Real-Time Systems** | Telemetría IoT, streaming de eventos, WebSockets y procesamiento de datos |
+| **Cloud & DevOps** | Docker, Linux, automatización, despliegues y operación de servicios |
+| **Observability & Security** | Grafana, Prometheus, monitoreo, IAM y prácticas de seguridad |
+| **Databases** | PostgreSQL, SQL, modelado de datos y plataformas analíticas |
+
+### Experiencia y soluciones
+
+**Corporación Grupo DRAGO** · *Junior Developer & System Administrator*
+
+- **INDUXA — Plataformas industriales y agro:** participación en soluciones IoT para integración y visualización de telemetría, con arquitecturas orientadas a servicios y comunicación en tiempo real.
+- **Infraestructura y observabilidad:** administración de entornos Linux y servicios contenerizados; monitoreo con Grafana y Prometheus e integración de herramientas de gestión de identidad.
+- **Plataformas de datos:** experiencia en entornos de bases de datos distribuidas y soluciones analíticas de alto rendimiento.
+- **Integraciones cloud e IoT:** participación en flujos de procesamiento y automatización de datos industriales con servicios en la nube.
+
+<sub>Las descripciones anteriores son generales y no incluyen código, arquitectura interna ni información confidencial de clientes o empleadores.</sub>
+
+### Tecnologías
+
+**Frontend & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-111827?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt](https://img.shields.io/badge/Nuxt-111827?style=flat-square&logo=nuxt&logoColor=00DC82)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=3776AB)
+
+**Data & Streaming**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![SingleStore](https://img.shields.io/badge/SingleStore-111827?style=flat-square)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-111827?style=flat-square&logo=apachekafka&logoColor=white)
+
+**Infrastructure & Operations**
+
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-111827?style=flat-square&logo=cloudflare&logoColor=F38020)
+![Grafana](https://img.shields.io/badge/Grafana-111827?style=flat-square&logo=grafana&logoColor=F46800)
+![Prometheus](https://img.shields.io/badge/Prometheus-111827?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Nginx](https://img.shields.io/badge/NGINX-111827?style=flat-square&logo=nginx&logoColor=009639)
+
+### Formación y reconocimiento
+
+- **Ingeniería de Sistemas — Universidad Tecnológica del Perú (UTP)**.
+- Participación en la lección de Inteligencia Artificial más grande del mundo, reconocida con un **Guinness World Record**.
 
 ---
 
 <div align="center">
-  <p><b>Contacto & Redes</b><br>
-  Chiclayo, Perú · <a href="mailto:ronallapapasca@gmail.com">ronallapapasca@gmail.com</a> | <a href="https://www.linkedin.com/in/ronal-llapapasca/">LinkedIn</a> | <a href="https://pukio.lat">pukio.lat</a></p>
+
+**Engineering reliable systems. Building practical solutions.**
+
+[LinkedIn](https://www.linkedin.com/in/ronal-llapapasca/) · [Correo electrónico](mailto:ronallapapasca@gmail.com)
+
 </div>
